@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Python-Based Face Recognition System for Security](https://github.com/TETALAVEERAVALLIPRIYA/Python-Based-Face-Recognition-System-for-Security.git)
 
-- 📫 How to reach me **TETALAVEERAVALLIPRIYA@GMAIL.COM**
+- 📫 How to reach me **priyatetala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
