@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flask / Django (Web Frameworks)**
 
-- 👯 I’m looking to collaborate on **I'm looking to collaborate on exciting Python projects, open-source contributions, and innovative tech solutions**
+- 👯 **I'm looking to collaborate on exciting Python projects, open-source contributions, and innovative tech solutions**
 
 - 🤝 I’m looking for help with [Python-Based Face Recognition System for Security](https://github.com/TETALAVEERAVALLIPRIYA/Python-Based-Face-Recognition-System-for-Security.git)
 
