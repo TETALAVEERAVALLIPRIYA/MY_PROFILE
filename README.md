@@ -1,5 +1,5 @@
 # MY_PROFILE
-<h1 align="center">Hi 👋, I'm TETALA VEERAVALLI PRIYA</h1>
+<h1 align="center">Hi 👋, I'm PRIYA</h1>
 <h3 align="center">"A passionate Python developer, crafting solutions from the heart of India."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tetalaveeravallipriya&label=Profile%20views&color=0e75b6&style=flat" alt="tetalaveeravallipriya" /> </p>
